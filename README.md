@@ -45,10 +45,10 @@ Wszystkie pięć spółek łączy:
 
 ## 2. Dane
 
-**Źródło:** Yahoo Finance (`yfinance`), dzienne ceny zamknięcia skorygowane o dywidendy i splity (`Adj Close`).
-**Okres:** 1 sierpnia 2006 – 31 lipca 2008 (2 lata; sierpień 2007 jako środek okresu).
-**Format:** data × cena zamknięcia [USD].
-**Liczba obserwacji:** 503 dni sesyjne × 5 spółek.
+**Źródło:** Yahoo Finance (`yfinance`), dzienne ceny zamknięcia skorygowane o dywidendy i splity (`Adj Close`).  
+**Okres:** 1 sierpnia 2006 – 31 lipca 2008 (2 lata; sierpień 2007 jako środek okresu).  
+**Format:** data × cena zamknięcia [USD].  
+**Liczba obserwacji:** 503 dni sesyjne × 5 spółek.  
 
 ---
 
