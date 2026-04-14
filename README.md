@@ -1,7 +1,7 @@
 # Raport analityczny: Sektor bankowy USA w kryzysie finansowym 2007–2008
 
-**Autor:** Oleksandra Krykun
-**Data:** 14 kwietnia 2026
+**Autor:** Oleksandra Krykun  
+**Data:** 14 kwietnia 2026  
 **Kurs:** Market Risk Lab – Zadanie Domowe 1
 
 ---
