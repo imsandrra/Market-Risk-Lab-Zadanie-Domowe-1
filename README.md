@@ -162,11 +162,7 @@ Na wykresach znormalizowanych wyraźnie widać rozbieżność trajektorii po sie
 
 ![Wykres: Histogramy stóp zwrotu z krzywą normalną dla każdej spółki](histogramy.png)
 
-### 4.6 Zmienność krocząca (30-dniowa)
-
-![Wykres: 30-dniowa zmienność krocząca (annualizowana) – wszystkie spółki, z linią 09.08.2007](korelacje_rolling.png)
-
-### 4.7 Komentarz do wyników
+### 4.6 Komentarz do wyników
 
 **Zwroty roczne.** Jedynie Goldman Sachs w analizowanym okresie wykazuje dodatnią annualizowaną stopę zwrotu (+11,1%). Pozostałe spółki odnotowały straty, przy czym największe poniosły Citigroup (−43,1%) i AIG (−39,5%) — czyli instytucje najbardziej bezpośrednio zaangażowane w produkty sekurytyzacyjne i CDS.
 
