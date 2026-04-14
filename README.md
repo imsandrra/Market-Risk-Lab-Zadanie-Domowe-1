@@ -133,13 +133,9 @@ Logarytmiczne stopy zwrotu są addytywne w czasie, co jest kluczową własności
 
 ### 4.2 Wykresy cen
 
-*[Wykres: Dzienne ceny zamknięcia – 5 spółek, 2006–2008, z czerwoną linią pionową w dniu 09.08.2007]*
+![Wykres: Dzienne ceny zamknięcia – 5 spółek, 2006–2008, z czerwoną linią pionową w dniu 09.08.2007](wykresy_cen.png)
 
-<!-- wklej tutaj: wykresy_cen.png -->
-
-*[Wykres: Ceny znormalizowane (baza = 100 na 01.08.2006)]*
-
-<!-- wklej tutaj: ceny_znormalizowane.png -->
+![Wykres: Ceny znormalizowane (baza = 100 na 01.08.2006)](ceny_znormalizowane.png)
 
 Na wykresach znormalizowanych wyraźnie widać rozbieżność trajektorii po sierpniu 2007:
 - **Goldman Sachs** przez większość okresu utrzymuje wartość powyżej bazy — jest relatywnie odporny.
@@ -160,21 +156,15 @@ Na wykresach znormalizowanych wyraźnie widać rozbieżność trajektorii po sie
 
 ### 4.4 Wykresy stóp zwrotu
 
-*[Wykres: Dzienne log-stopy zwrotu – 5 spółek, 2006–2008 (wykresy słupkowe)]*
-
-<!-- wklej tutaj: stopy_zwrotu.png -->
+![Wykres: Dzienne log-stopy zwrotu – 5 spółek, 2006–2008 (wykresy słupkowe)](stopy_zwrotu.png)
 
 ### 4.5 Histogramy rozkładu
 
-*[Wykres: Histogramy stóp zwrotu z krzywą normalną dla każdej spółki]*
-
-<!-- wklej tutaj: histogramy.png -->
+![Wykres: Histogramy stóp zwrotu z krzywą normalną dla każdej spółki](histogramy.png)
 
 ### 4.6 Zmienność krocząca (30-dniowa)
 
-*[Wykres: 30-dniowa zmienność krocząca (annualizowana) – wszystkie spółki, z linią 09.08.2007]*
-
-<!-- wklej tutaj: zmiennosc_krocząca.png -->
+![Wykres: 30-dniowa zmienność krocząca (annualizowana) – wszystkie spółki, z linią 09.08.2007](korelacje_rolling)
 
 ### 4.7 Komentarz do wyników
 
@@ -198,9 +188,7 @@ Na wykresach znormalizowanych wyraźnie widać rozbieżność trajektorii po sie
 
 ### 5.1 Macierze korelacji Pearsona
 
-*[Wykres: Trzy heatmapy – cały okres / pre-kryzys (przed 09.08.2007) / post-BNP Paribas (od 09.08.2007)]*
-
-<!-- wklej tutaj: korelacje.png -->
+![Wykres: Trzy heatmapy – cały okres / pre-kryzys (przed 09.08.2007) / post-BNP Paribas (od 09.08.2007)](korelacje.png)
 
 **Cały okres (2006–2008):**
 
@@ -234,9 +222,7 @@ Na wykresach znormalizowanych wyraźnie widać rozbieżność trajektorii po sie
 
 ### 5.2 Korelacja krocząca
 
-*[Wykres: 60-dniowa korelacja krocząca – Goldman Sachs vs. Citigroup oraz AIG vs. Bank of America]*
-
-<!-- wklej tutaj: korelacje_rolling.png -->
+![Wykres: 60-dniowa korelacja krocząca – Goldman Sachs vs. Citigroup oraz AIG vs. Bank of America](korelacje_rolling.png)
 
 ### 5.3 Ocena wyników
 
