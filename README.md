@@ -113,11 +113,11 @@ Kryterium: dzienna log-stopa zwrotu z |z-score| > 4,0. Wykryto łącznie **16 ob
 
 | Kryterium | Status | Działanie |
 |-----------|--------|-----------|
-| Brakujące dane (NaN) | ✅ Brak | — |
-| Weekendy / duplikaty | ✅ Brak | — |
-| Luki w szeregu | ✅ Tylko przerwy świąteczne NYSE | — |
-| Ceny ujemne / zerowe | ✅ Brak | — |
-| Outliery (\|z\|>4) | ⚠️ 16 obs. | Zachowane — reprezentują realne zdarzenia kryzysowe |
+| Brakujące dane (NaN) | Brak | — |
+| Weekendy / duplikaty | Brak | — |
+| Luki w szeregu | Tylko przerwy świąteczne NYSE | — |
+| Ceny ujemne / zerowe | Brak | — |
+| Outliery (\|z\|>4) | 16 obs. | Zachowane — reprezentują realne zdarzenia kryzysowe |
 
 ---
 
