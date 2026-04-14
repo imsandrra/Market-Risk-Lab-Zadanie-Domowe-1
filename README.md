@@ -164,7 +164,7 @@ Na wykresach znormalizowanych wyraźnie widać rozbieżność trajektorii po sie
 
 ### 4.6 Zmienność krocząca (30-dniowa)
 
-![Wykres: 30-dniowa zmienność krocząca (annualizowana) – wszystkie spółki, z linią 09.08.2007](korelacje_rolling)
+![Wykres: 30-dniowa zmienność krocząca (annualizowana) – wszystkie spółki, z linią 09.08.2007](korelacje_rolling.png)
 
 ### 4.7 Komentarz do wyników
 
