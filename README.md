@@ -60,7 +60,7 @@ Wszystkie pięć spółek łączy:
 
 ### 3.2 Spójność dat
 
-W indeksie nie wykryto dni weekendowych ani duplikatów. Zidentyfikowano 13 przerw dłuższych niż 3 dni (wszystkie wynoszące dokładnie 4 dni kalendarzowe), odpowiadających długim weekendom giełdowym NYSE:
+W indeksie nie wykryto dni weekendowych ani duplikatów. Zidentyfikowano 13 przerw dłuższych niż 3 dni (wszystkie oprócz jednego wynoszące dokładnie 4 dni kalendarzowe), odpowiadających długim weekendom giełdowym NYSE:
 
 | Data od | Data do | Długość | Święto |
 |---------|---------|---------|--------|
